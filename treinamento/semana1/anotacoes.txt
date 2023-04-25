@@ -1,0 +1,25 @@
+tipos primmitivos
+
+int (7, -4, 0)
+float (4.5, 0.076, -15,223)
+bool (true or false)
+str ('Olá', '7.5')
+
+operadores aritméticos
+
++ : adição
+- : subtração
+/ : divisão
+* : multiplicação
+** : potência
+= : receber atributo
+== : igual a
+// : divisão inteira
+% : resto de divisão
+
+estruturas condicionais
+
+if(condicao):
+ instrucoes
+else:
+ instrucoes
